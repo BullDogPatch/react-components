@@ -15,6 +15,10 @@ const Section = () => {
         src='https://plus.unsplash.com/premium_photo-1664303056344-e900d56faa49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZW5nbGlzaCUyMGJ1bGxkb2d8ZW58MHx8MHx8fDA%3D'
         alt='image of english bulldog'
       />
+      <Image
+        src='https://plus.unsplash.com/premium_photo-1723709063189-a00e99de226a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZW5nbGlzaCUyMGJ1bGxkb2d8ZW58MHx8MHx8fDA%3D'
+        alt='image of english bulldog'
+      />
     </>
   );
 };
